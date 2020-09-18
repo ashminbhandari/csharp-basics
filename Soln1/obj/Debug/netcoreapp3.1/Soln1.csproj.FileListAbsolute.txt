@@ -1,0 +1,12 @@
+/Users/ashminbhandari/Downloads/Training/Day-4 C# Materials and Assignments (extract.me)/Day 4 Solutions/Soln1/obj/Debug/netcoreapp3.1/Soln1.csprojAssemblyReference.cache
+/Users/ashminbhandari/Downloads/Training/Day-4 C# Materials and Assignments (extract.me)/Day 4 Solutions/Soln1/obj/Debug/netcoreapp3.1/Soln1.AssemblyInfoInputs.cache
+/Users/ashminbhandari/Downloads/Training/Day-4 C# Materials and Assignments (extract.me)/Day 4 Solutions/Soln1/obj/Debug/netcoreapp3.1/Soln1.AssemblyInfo.cs
+/Users/ashminbhandari/Downloads/Training/Day-4 C# Materials and Assignments (extract.me)/Day 4 Solutions/Soln1/obj/Debug/netcoreapp3.1/Soln1.csproj.CoreCompileInputs.cache
+/Users/ashminbhandari/Downloads/Training/Day-4 C# Materials and Assignments (extract.me)/Day 4 Solutions/Soln1/bin/Debug/netcoreapp3.1/Soln1.deps.json
+/Users/ashminbhandari/Downloads/Training/Day-4 C# Materials and Assignments (extract.me)/Day 4 Solutions/Soln1/bin/Debug/netcoreapp3.1/Soln1.runtimeconfig.json
+/Users/ashminbhandari/Downloads/Training/Day-4 C# Materials and Assignments (extract.me)/Day 4 Solutions/Soln1/bin/Debug/netcoreapp3.1/Soln1.runtimeconfig.dev.json
+/Users/ashminbhandari/Downloads/Training/Day-4 C# Materials and Assignments (extract.me)/Day 4 Solutions/Soln1/bin/Debug/netcoreapp3.1/Soln1.dll
+/Users/ashminbhandari/Downloads/Training/Day-4 C# Materials and Assignments (extract.me)/Day 4 Solutions/Soln1/bin/Debug/netcoreapp3.1/Soln1.pdb
+/Users/ashminbhandari/Downloads/Training/Day-4 C# Materials and Assignments (extract.me)/Day 4 Solutions/Soln1/obj/Debug/netcoreapp3.1/Soln1.dll
+/Users/ashminbhandari/Downloads/Training/Day-4 C# Materials and Assignments (extract.me)/Day 4 Solutions/Soln1/obj/Debug/netcoreapp3.1/Soln1.pdb
+/Users/ashminbhandari/Downloads/Training/Day-4 C# Materials and Assignments (extract.me)/Day 4 Solutions/Soln1/obj/Debug/netcoreapp3.1/Soln1.genruntimeconfig.cache
